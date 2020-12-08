@@ -1,0 +1,2 @@
+Scrapy==2.4.1
+APScheduler==3.6.3
